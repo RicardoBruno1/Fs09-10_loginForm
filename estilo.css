@@ -151,3 +151,8 @@ header figure h1 {
 #login form .form-footer img {
     margin-left: 20px;
 }
+
+div figure {
+    display: flex;
+}
+ 
